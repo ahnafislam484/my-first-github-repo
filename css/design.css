@@ -1,0 +1,75 @@
+/* h1{
+    color: blue;
+} */
+
+
+ol{
+    color: aqua;
+}
+.l3{
+    color: rgb(183, 114, 35);
+    border: 5px;
+   margin-top: 2px;
+    padding: 5px;
+    border-color: blue;
+    border-radius: 1px;
+}
+.by{
+    color: blue;
+}
+.hi{
+    color: chartreuse;
+}
+.hlw{
+    color: brown;
+}
+.my{
+color: rgb(22, 192, 25);
+}
+.p1{
+    background-color: aquamarine;
+   border: 10px solid rgb(192, 167, 22) ;
+   /* border-left: 5px; */
+   /* border-right: 5px; */
+   border-radius: 20px;
+   margin: 10px 50px 90px;
+   padding: 60px 40px;
+}
+.p2{
+    background-color: aquamarine;
+    border: 10px solid rgb(192, 167, 22) ;
+    border-radius: 20px;
+    margin: 10px 50px 90px;
+    p
+}
+.p3{
+    background-color: aquamarine;
+    border: 10px solid rgb(192, 167, 22) ;
+    border-radius: 20px;
+    margin: 10px 50px ;
+}
+.hd1{
+    box-shadow: 10px;
+    background-color: yellow;
+    text-decoration: overline;
+}
+.hd2{
+    background-color: brown;
+    text-decoration: overline;
+}
+.hd3{
+    background-color: cadetblue;
+    box-shadow: 10px black;
+    text-decoration: overline;
+}
+.html{
+    background-color: rgb(33, 87, 69);
+    border: 5px solid yellowgreen;
+}
+
+
+.design{
+    border: 10px solid slategrey;
+    border-bottom-width: 2px;
+    background-color: chartreuse;
+}
